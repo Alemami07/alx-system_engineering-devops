@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R -L vincent.staff /0x01-shell_permissions/_hello
